@@ -1,0 +1,101 @@
+[
+  {
+    "model": "X 15+ SL FG",
+    "id": 1,
+    "type": "FG",
+    "brand": "Adidas",
+    "featured": true,
+    "price": 200,
+    "date": "19-04-2016"
+  },
+  {
+    "model": "X 15.2 Cage",
+    "id": 2,
+    "type": "TF",
+    "brand": "Adidas",
+    "featured": false,
+    "price": 50,
+    "date": "16-04-2016"
+  },
+  {
+    "model": "X 15.2",
+    "id": 3,
+    "type": "FG",
+    "brand": "Adidas",
+    "featured": false,
+    "price": 95,
+    "date": "17-04-2016"
+  },
+  {
+    "model": "X 15.4",
+    "id": 4,
+    "type": "IN",
+    "brand": "Adidas",
+    "featured": false,
+    "price": 35,
+    "date": "17-04-2016"
+  },
+  {
+    "model": "COPA SL",
+    "id": 5,
+    "type": "FG",
+    "brand": "Adidas",
+    "featured": true,
+    "price": 160,
+    "date": "19-04-2016"
+  },
+  {
+    "model": "F50 adizero",
+    "id": 6,
+    "type": "FG",
+    "brand": "Adidas",
+    "featured": false,
+    "price": 50,
+    "date": "19-04-2015"
+  },
+  {
+    "model": "F50 adizero",
+    "id": 7,
+    "type": "FG",
+    "brand": "Adidas",
+    "featured": false,
+    "price": 50,
+    "date": "19-04-2015"
+  },
+  {
+    "model": "F10 adizero",
+    "id": 8,
+    "type": "TF",
+    "brand": "Adidas",
+    "featured": false,
+    "price": 15,
+    "date": "26-04-2015"
+  },
+  {
+    "model": "Hypervenom Phantom II",
+    "id": 9,
+    "type": "FG",
+    "brand": "Nike",
+    "featured": true,
+    "price": 200,
+    "date": "19-04-2016"
+  },
+  {
+    "model": "F10 adizero",
+    "id": 8,
+    "type": "TF",
+    "brand": "Adidas",
+    "featured": false,
+    "price": 15,
+    "date": "26-04-2015"
+  },
+  {
+    "model": "evoSPEED 3.4",
+    "id": 9,
+    "type": "FG",
+    "brand": "Puma",
+    "featured": true,
+    "price": 150,
+    "date": "11-02-2016"
+  },
+]
