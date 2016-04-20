@@ -30,5 +30,8 @@
     "gulp-uglify": "^1.5.3",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "ramda": "^0.21.0"
   }
 }
